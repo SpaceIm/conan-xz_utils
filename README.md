@@ -8,4 +8,4 @@
 
 ## Description
 
-[Conan.io](https://conan.io) package for [xz_utils](https://tukaani.org/xz).
+[Conan.io](https://conan.io) package for [XZ Utils](https://tukaani.org/xz).
